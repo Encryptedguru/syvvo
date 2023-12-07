@@ -1,0 +1,73 @@
+[
+    {
+        "id": 1,
+        "category": "meat",
+        "productName": "BBQ",
+        "image": "img/products/f2.jpg",
+        "price": 78,
+        "rating": 5
+    },
+    {
+        "id": 2,
+        "category": "noodles",
+        "productName": "Creamy Alfredo",
+        "image": "img/products/f1.jpg",
+        "price": 48,
+        "rating": 3
+    },
+    {
+        "id": 3,
+        "category": "vegetables",
+        "productName": "Veggie Tacos",
+        "image": "img/products/f3.jpg",
+        "price": 84,
+        "rating": 4
+    },
+    {
+        "id": 4,
+        "category": "vegetables",
+        "productName": "Pepper Meat",
+        "image": "img/products/f4.jpg",
+        "price": 38,
+        "rating": 3
+    },
+    {
+        "id": 5,
+        "category": "soup",
+        "productName": "Orange Salmon Soup",
+        "image": "img/products/f5.jpg",
+        "price": 38,
+        "rating": 4
+    },
+   
+    {
+        "id": 6,
+        "category": "meat",
+        "productName": "Filet Mignon",
+        "image": "img/products/f6.jpg",
+        "price": 63,
+        "rating": 5
+    }, 
+    {
+        "id": 7,
+        "category": "noodles",
+        "productName": "Japanese Fried Noodles",
+        "image": "img/products/f7.jpg",
+        "price": 63,
+        "rating": 4
+    }, 
+    {
+        "id": 8,
+        "category": "mixed",
+        "productName": "Spinach Salmon",
+        "image": "img/products/f8.jpg",
+        "price": 32,
+        "rating": 3
+    }
+ 
+]
+
+
+
+
+         
